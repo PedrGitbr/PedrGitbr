@@ -15,6 +15,4 @@ Refazendo a minha trajetória com foco em **Segurança da Informação e Operaç
 *   Implementar automações que facilitem a detecção e resposta a incidentes.
 *   Validar meu avanço técnico e construir uma infraestrutura de conhecimento sólida, um passo de cada vez.
 
----
 
-*"Baixa cognição, mas um passo pra frente, um tijolo pra cima."* 🧱
